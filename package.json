@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "budo": "^9.2.2",
-    "makr": "^2.1.1"
+    "makr": "^2.1.1",
+    "phaser": "^2.6.2"
   }
 }
